@@ -64,70 +64,70 @@
     </g>
     <g>
         <foreignObject x="204.924225025" y="5" width="20" height="20">
-            <div id="stroke">\(A\)</div>
+            <div id="stroke" xmlns="http://www.w3.org/1999/xhtml">\(A\)</div>
         </foreignObject>
         <foreignObject x="204.924225025" y="5" width="20" height="20">
-            <div id="label">\(A\)</div>
+            <div id="label" xmlns="http://www.w3.org/1999/xhtml">\(A\)</div>
         </foreignObject>
         <foreignObject x="164.924225025" y="180" width="20" height="20">
-            <div id="stroke">\(B\)</div>
+            <div id="stroke" xmlns="http://www.w3.org/1999/xhtml">\(B\)</div>
         </foreignObject>
         <foreignObject x="164.924225025" y="180" width="20" height="20">
-            <div id="label">\(B\)</div>
+            <div id="label" xmlns="http://www.w3.org/1999/xhtml">\(B\)</div>
         </foreignObject>
         <foreignObject x="344.924225025" y="180" width="20" height="20">
-            <div id="stroke">\(C\)</div>
+            <div id="stroke" xmlns="http://www.w3.org/1999/xhtml">\(C\)</div>
         </foreignObject>
         <foreignObject x="344.924225025" y="180" width="20" height="20">
-            <div id="label">\(C\)</div>
+            <div id="label" xmlns="http://www.w3.org/1999/xhtml">\(C\)</div>
         </foreignObject>
         <foreignObject x="102.462112512" y="85" width="20" height="20">
-            <div id="stroke">\(F\)</div>
+            <div id="stroke" xmlns="http://www.w3.org/1999/xhtml">\(F\)</div>
         </foreignObject>
         <foreignObject x="102.462112512" y="85" width="20" height="20">
-            <div id="label">\(F\)</div>
+            <div id="label" xmlns="http://www.w3.org/1999/xhtml">\(F\)</div>
         </foreignObject>
         <foreignObject x="384.924225025" y="85" width="20" height="20">
-            <div id="stroke">\(G\)</div>
+            <div id="stroke" xmlns="http://www.w3.org/1999/xhtml">\(G\)</div>
         </foreignObject>
         <foreignObject x="384.924225025" y="85" width="20" height="20">
-            <div id="label">\(G\)</div>
+            <div id="label" xmlns="http://www.w3.org/1999/xhtml">\(G\)</div>
         </foreignObject>
         <foreignObject x="282.462112512" y="299.924225025" width="20" height="20">
-            <div id="stroke">\(J\)</div>
+            <div id="stroke" xmlns="http://www.w3.org/1999/xhtml">\(J\)</div>
         </foreignObject>
         <foreignObject x="282.462112512" y="299.924225025" width="20" height="20">
-            <div id="label">\(J\)</div>
+            <div id="label" xmlns="http://www.w3.org/1999/xhtml">\(J\)</div>
         </foreignObject>
         <foreignObject x="141.267812518" y="262.625650026" width="20" height="20">
-            <div id="stroke">\(K\)</div>
+            <div id="stroke" xmlns="http://www.w3.org/1999/xhtml">\(K\)</div>
         </foreignObject>
         <foreignObject x="141.267812518" y="262.625650026" width="20" height="20">
-            <div id="label">\(K\)</div>
+            <div id="label" xmlns="http://www.w3.org/1999/xhtml">\(K\)</div>
         </foreignObject>
         <foreignObject x="382.401492532" y="217.969690010" width="20" height="20">
-            <div id="stroke">\(L\)</div>
+            <div id="stroke" xmlns="http://www.w3.org/1999/xhtml">\(L\)</div>
         </foreignObject>
         <foreignObject x="382.401492532" y="217.969690010" width="20" height="20">
-            <div id="label">\(L\)</div>
+            <div id="label" xmlns="http://www.w3.org/1999/xhtml">\(L\)</div>
         </foreignObject>
         <foreignObject x="272.462112512" y="158" width="20" height="20">
-            <div id="stroke">\(M\)</div>
+            <div id="stroke" xmlns="http://www.w3.org/1999/xhtml">\(M\)</div>
         </foreignObject>
         <foreignObject x="272.462112512" y="158" width="20" height="20">
-            <div id="label">\(M\)</div>
+            <div id="label" xmlns="http://www.w3.org/1999/xhtml">\(M\)</div>
         </foreignObject>
         <foreignObject x="10" y="182" width="20" height="20">
-            <div id="stroke">\(S\)</div>
+            <div id="stroke" xmlns="http://www.w3.org/1999/xhtml">\(S\)</div>
         </foreignObject>
         <foreignObject x="10" y="182" width="20" height="20">
-            <div id="label">\(S\)</div>
+            <div id="label" xmlns="http://www.w3.org/1999/xhtml">\(S\)</div>
         </foreignObject>
         <foreignObject x="534.924225025" y="182" width="20" height="20">
-            <div id="stroke">\(T\)</div>
+            <div id="stroke" xmlns="http://www.w3.org/1999/xhtml">\(T\)</div>
         </foreignObject>
         <foreignObject x="534.924225025" y="182" width="20" height="20">
-            <div id="label">\(T\)</div>
+            <div id="label" xmlns="http://www.w3.org/1999/xhtml">\(T\)</div>
         </foreignObject>
     </g>
 </svg>
