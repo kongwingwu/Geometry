@@ -1,41 +1,41 @@
 @font-face {
     font-family: "Computer Mordern";
-    src: url('https://kongwingwu.github.io/geometry/fonts/cmunrm.otf') format("opentype");
+    src: url('https://kongwingwu.github.io/Geometry/fonts/cmunrm.otf') format("opentype");
 }
 
 @font-face {
     font-family: "Computer Mordern";
-    src: url('https://kongwingwu.github.io/geometry/fonts/cmunbx.otf') format("opentype");
+    src: url('https://kongwingwu.github.io/Geometry/fonts/cmunbx.otf') format("opentype");
     font-weight: bold;
 }
 
 @font-face {
     font-family: "Computer Mordern";
-    src: url('https://kongwingwu.github.io/geometry/fonts/cmunti.otf') format("opentype");
+    src: url('https://kongwingwu.github.io/Geometry/fonts/cmunti.otf') format("opentype");
     font-style: italic;
 }
 
 @font-face {
     font-family: "Computer Mordern";
-    src: url('https://kongwingwu.github.io/geometry/fonts/cmunbi.otf') format("opentype");
+    src: url('https://kongwingwu.github.io/Geometry/fonts/cmunbi.otf') format("opentype");
     font-weight: bold;
     font-style: italic;
 }
 
 @font-face {
     font-family: "Fandol";
-    src: url('https://kongwingwu.github.io/geometry/fonts/FandolSong-Regular.otf') format("opentype");
+    src: url('https://kongwingwu.github.io/Geometry/fonts/FandolSong-Regular.otf') format("opentype");
 }
 
 @font-face {
     font-family: "Fandol";
-    src: url('https://kongwingwu.github.io/geometry/fonts/FandolSong-Bold.otf') format("opentype");
+    src: url('https://kongwingwu.github.io/Geometry/fonts/FandolSong-Bold.otf') format("opentype");
     font-weight: bold;
 }
 
 @font-face {
     font-family: "Fandol";
-    src: url('https://kongwingwu.github.io/geometry/fonts/FandolKai-Regular.otf') format("opentype");
+    src: url('https://kongwingwu.github.io/Geometry/fonts/FandolKai-Regular.otf') format("opentype");
     font-style: italic;
 }
 
